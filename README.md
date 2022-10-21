@@ -6,7 +6,7 @@
 - 💻 html, css, javasript, python, php, c, sql,
 - 
 
-- 📫 caso queira entra em contato é so manda um email para - guilherme.mar2004@gail.com
+- 📫 caso queira entra em contato é so manda um email para - guilherme.mar2004@gmail.com
 - ou mensagem para o numero (98) 98463-3059.
 - 
 
